@@ -11,7 +11,7 @@ This project analyzes product performance and growth strategy in a Meesho-like e
 - `dashboard/`: Power BI file + screenshots
 - `data/`: Cleaned data used for the project
 - `sql/`: Key SQL queries
-- `analysis/`: Jupyter notebooks (if used)
+- `analysis/`: Jupyter notebooks  
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Preview](https://github.com/sahilmangal2004/SmartCommerce-Category-Insight-Suite/blob/main/overview.png)
